@@ -1,4 +1,5 @@
 # Збірка до 40 тис.грн
+## Кривицький Петро 2-Кт-22
 Компонент    | Вартість |Посилання | Фото |
 ----- | ----- |----- |----- |
 Материнська плата Socket_1700  Asus Prime Prime H610M-D  (mATX, H610, 2x DDR5)  | 4095.10 |https://www.asus.com/motherboards-components/motherboards/prime/prime-h610m-k/|![alt](https://dlcdnwebimgs.asus.com/gain/eb6af592-21fd-4592-81f3-d342cf769939/w800/fwebp "shih-tzu")|
